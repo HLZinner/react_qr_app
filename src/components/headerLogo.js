@@ -7,11 +7,11 @@ const headerLogo = ({ flags, ldClient /*, ...otherProps */ }) => {
   
   return showFeature ? (
   <div>
-    <img src={ldlogo} className="LD-logo" alt="logo" />
+    <img src={ldlogo} className="LD-logo-header" alt="logo" />
   </div>
   ) : (
   <div>
-    <img src={oldldlogo} className="LD-logo" alt="logo" />
+    <img src={oldldlogo} className="LD-logo-header" alt="logo" />
   </div>
   );
 };
