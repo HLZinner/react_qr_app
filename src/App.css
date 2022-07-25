@@ -65,7 +65,7 @@
 }
 
 .gray-app-header {
-  background-color: #A5A5A5;
+  background-color: #D4D4D4;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -87,7 +87,7 @@
 }
 
 .blue-app-header {
-  background-color: #405BFF;
+  background-color: #364dd9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -98,7 +98,7 @@
 }
 
 .red-app-header {
-  background-color: #FF386B;
+  background-color: #e2345f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
