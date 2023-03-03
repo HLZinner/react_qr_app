@@ -27,6 +27,7 @@ let id = getUserId();
       account: {
         name: "Hooli",
         isTrial: false,
+        isBeta: true,
         planType: "Enterprise",
         signupDate: 1670605200
       },
