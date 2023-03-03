@@ -1,3 +1,4 @@
+import React from "react";
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
 
 const updateBackGroundColor = ({ flags, ldClient /*, ...otherProps */ }) => {

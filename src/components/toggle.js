@@ -1,3 +1,4 @@
+import React from "react";
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
 import toggle from "./../images/toggle.png";
 import oldtoggle from "./../images/toggle_old.png";
