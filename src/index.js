@@ -14,15 +14,29 @@ let id = getUserId();
 (async () => {
   const LDProvider = await asyncWithLDProvider({
     clientSideID: CLIENTKEY,
-    user: {
-      key: id,
-      //dynamically set these custom attributes using the deviceType and osName selectors from the npm package
-      custom: {
-        device: deviceType,
-        operatingSystem: osName,
+
+    context: {
+      kind: "multi",
+
+      user: {
+        key: id,
+        accountName: "Hooli",
+        planType: "Enterprise"
       },
+
+      account: {
+        name: "Hooli",
+        isTrial: false,
+        planType: "Enterprise",
+        signupDate: 1670605200
+      },
+
+      device: {
+        device: deviceType,
+        operatingSystem: osName
+      }
     },
-  });
+});
 
   ReactDOM.render(
     <LDProvider>
