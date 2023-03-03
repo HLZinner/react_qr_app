@@ -1,4 +1,3 @@
-import React from "react";
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
 import osmo from "./../images/osmo_black.png";
 import rocketship from "./../images/rocketship_dark.png";
