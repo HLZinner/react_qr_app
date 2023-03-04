@@ -1,4 +1,5 @@
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
+import React from "react";
 import ldlogo from "./../images/ld_logo_white.png";
 import oldldlogo from "./../images/ld_logo_white_old.png";
 
