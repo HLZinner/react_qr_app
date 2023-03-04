@@ -1,21 +1,28 @@
 {
-  "main.css": "/react_qr_app/static/css/main.e5ebd6ce.chunk.css",
-  "main.js": "/react_qr_app/static/js/main.22687dba.chunk.js",
-  "main.js.map": "/react_qr_app/static/js/main.22687dba.chunk.js.map",
-  "static/js/1.13880a2b.chunk.js": "/react_qr_app/static/js/1.13880a2b.chunk.js",
-  "static/js/1.13880a2b.chunk.js.map": "/react_qr_app/static/js/1.13880a2b.chunk.js.map",
-  "static/js/2.54dad59b.chunk.js": "/react_qr_app/static/js/2.54dad59b.chunk.js",
-  "static/js/2.54dad59b.chunk.js.map": "/react_qr_app/static/js/2.54dad59b.chunk.js.map",
-  "runtime~main.js": "/react_qr_app/static/js/runtime~main.b105aec8.js",
-  "runtime~main.js.map": "/react_qr_app/static/js/runtime~main.b105aec8.js.map",
-  "static/media/heart.svg": "/react_qr_app/static/media/heart.c743bfd0.svg",
-  "static/media/ld_logo_white.png": "/react_qr_app/static/media/ld_logo_white.a60da9d3.png",
-  "static/media/ld_logo_white_old.png": "/react_qr_app/static/media/ld_logo_white_old.799dd17e.png",
-  "static/media/toggle.png": "/react_qr_app/static/media/toggle.de296ce0.png",
-  "static/media/toggle_old.png": "/react_qr_app/static/media/toggle_old.597f80dc.png",
-  "static/media/rocketship_dark.png": "/react_qr_app/static/media/rocketship_dark.0d069c80.png",
-  "static/css/main.e5ebd6ce.chunk.css.map": "/react_qr_app/static/css/main.e5ebd6ce.chunk.css.map",
-  "index.html": "/react_qr_app/index.html",
-  "precache-manifest.e91ee35ddb6322280231cf1a147dd407.js": "/react_qr_app/precache-manifest.e91ee35ddb6322280231cf1a147dd407.js",
-  "service-worker.js": "/react_qr_app/service-worker.js"
+  "files": {
+    "main.css": "/react_qr_app/static/css/main.76e03fc6.chunk.css",
+    "main.js": "/react_qr_app/static/js/main.3f2fdfa5.chunk.js",
+    "main.js.map": "/react_qr_app/static/js/main.3f2fdfa5.chunk.js.map",
+    "runtime-main.js": "/react_qr_app/static/js/runtime-main.eea0eafb.js",
+    "runtime-main.js.map": "/react_qr_app/static/js/runtime-main.eea0eafb.js.map",
+    "static/js/2.648e927f.chunk.js": "/react_qr_app/static/js/2.648e927f.chunk.js",
+    "static/js/2.648e927f.chunk.js.map": "/react_qr_app/static/js/2.648e927f.chunk.js.map",
+    "static/js/3.19faddb0.chunk.js": "/react_qr_app/static/js/3.19faddb0.chunk.js",
+    "static/js/3.19faddb0.chunk.js.map": "/react_qr_app/static/js/3.19faddb0.chunk.js.map",
+    "index.html": "/react_qr_app/index.html",
+    "static/css/main.76e03fc6.chunk.css.map": "/react_qr_app/static/css/main.76e03fc6.chunk.css.map",
+    "static/js/2.648e927f.chunk.js.LICENSE.txt": "/react_qr_app/static/js/2.648e927f.chunk.js.LICENSE.txt",
+    "static/media/heart.3d7839e5.svg": "/react_qr_app/static/media/heart.3d7839e5.svg",
+    "static/media/ld_logo_white.c7ccd94b.png": "/react_qr_app/static/media/ld_logo_white.c7ccd94b.png",
+    "static/media/ld_logo_white_old.a7492e3d.png": "/react_qr_app/static/media/ld_logo_white_old.a7492e3d.png",
+    "static/media/rocketship_dark.713e5318.png": "/react_qr_app/static/media/rocketship_dark.713e5318.png",
+    "static/media/toggle.1d752285.png": "/react_qr_app/static/media/toggle.1d752285.png",
+    "static/media/toggle_old.09554e17.png": "/react_qr_app/static/media/toggle_old.09554e17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea0eafb.js",
+    "static/js/2.648e927f.chunk.js",
+    "static/css/main.76e03fc6.chunk.css",
+    "static/js/main.3f2fdfa5.chunk.js"
+  ]
 }
