@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
-import QRCode from "./components/qrCode";
 import { useFlags } from "launchdarkly-react-client-sdk";
+import QRCode from "./components/qrCode";
 import HeaderLDLogo from "./components/headerLogo";
 import Heart from "./components/heart";
 import CustomerLogo from "./components/customerLogo";
@@ -29,6 +29,7 @@ function App() {
       <div className="black-header">
         <HeaderLDLogo />
       </div>
+      
       <div className={headerStyle}>
         <Heart />
         <CustomerLogo />

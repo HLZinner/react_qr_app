@@ -14,22 +14,27 @@ let id = getUserId();
 (async () => {
   const LDProvider = await asyncWithLDProvider({
     clientSideID: CLIENTKEY,
+
     context: {
       kind: "multi",
-      
+
       user: {
         key: id,
         accountName: "Hooli",
         planType: "Enterprise"
       },
+
       account: {
+        key: "account-context-key123",
         name: "Hooli",
         isTrial: false,
         isBeta: true,
         planType: "Enterprise",
         signupDate: 1670605200
       },
+
       device: {
+        key: "device-context-key",
         device: deviceType,
         operatingSystem: osName
       }
