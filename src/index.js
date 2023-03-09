@@ -22,7 +22,6 @@ let id = getUserId();
         accountName: "Hooli",
         planType: "Enterprise"
       },
-
       account: {
         name: "Hooli",
         isTrial: false,
@@ -30,7 +29,6 @@ let id = getUserId();
         planType: "Enterprise",
         signupDate: 1670605200
       },
-
       device: {
         device: deviceType,
         operatingSystem: osName
