@@ -1,6 +1,6 @@
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
 import osmo from "./../images/osmo_black.png";
-import rocketship from "./../images/rocketship_dark.png";
+import rocketship from "./../images/rocketship_light.png";
 
 const ldLogoChange = ({ flags, ldClient /*, ...otherProps */ }) => {
   let showFeature = ldClient.variation("reactChildLogo");
