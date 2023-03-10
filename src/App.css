@@ -69,7 +69,7 @@
   background: rgb(158,158,158);
   background: linear-gradient(0deg, rgba(158,158,158,1) 14%, rgba(188,190,192,1) 58%, rgba(208,209,210,1) 81%);
   min-height: 100vh;
-  min-width: 50vw;
+  min-width: 65vw;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -82,7 +82,7 @@
   background: rgb(163,79,222);
   background: linear-gradient(0deg, rgba(163,79,222,1) 14%, rgba(175,113,219,1) 58%, rgba(185,143,215,1) 81%);
   min-height: 100vh;
-  min-width: 50vw;
+  min-width: 65vw;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -95,7 +95,7 @@
   background: rgb(64,91,255);
   background: linear-gradient(0deg, rgba(64,91,255,1) 14%, rgba(112,132,255,1) 58%, rgba(102,123,255,1) 80%);
   min-height: 100vh;
-  min-width: 50vw;
+  min-width: 65vw;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -108,7 +108,7 @@
   background: rgb(255,56,107);
   background: linear-gradient(0deg, rgba(255,56,107,1) 14%, rgba(240,86,125,1) 58%, rgba(210,104,131,1) 81%);
   min-height: 100vh;
-  min-width: 50vw;
+  min-width: 65vw;
   display: flex;
   flex-direction: column;
   align-items: center;
