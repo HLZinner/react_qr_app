@@ -1,28 +1,20 @@
 {
   "files": {
-    "main.css": "/react_qr_app/static/css/main.bf63cba0.chunk.css",
-    "main.js": "/react_qr_app/static/js/main.73cb0811.chunk.js",
-    "main.js.map": "/react_qr_app/static/js/main.73cb0811.chunk.js.map",
-    "runtime-main.js": "/react_qr_app/static/js/runtime-main.eea0eafb.js",
-    "runtime-main.js.map": "/react_qr_app/static/js/runtime-main.eea0eafb.js.map",
-    "static/js/2.54ea0e1a.chunk.js": "/react_qr_app/static/js/2.54ea0e1a.chunk.js",
-    "static/js/2.54ea0e1a.chunk.js.map": "/react_qr_app/static/js/2.54ea0e1a.chunk.js.map",
-    "static/js/3.19faddb0.chunk.js": "/react_qr_app/static/js/3.19faddb0.chunk.js",
-    "static/js/3.19faddb0.chunk.js.map": "/react_qr_app/static/js/3.19faddb0.chunk.js.map",
+    "main.css": "/react_qr_app/static/css/main.936b6d99.css",
+    "main.js": "/react_qr_app/static/js/main.33c6bcd4.js",
+    "static/js/787.8c833898.chunk.js": "/react_qr_app/static/js/787.8c833898.chunk.js",
+    "static/media/toggle.png": "/react_qr_app/static/media/toggle.1d752285128b052f17fb.png",
+    "static/media/toggle_old.png": "/react_qr_app/static/media/toggle_old.09554e178415a8bfc0f6.png",
+    "static/media/rocketship_light.png": "/react_qr_app/static/media/rocketship_light.5be87af1c294dde07c0f.png",
+    "static/media/ld_logo_white_old.png": "/react_qr_app/static/media/ld_logo_white_old.a7492e3d4eeb3e04a651.png",
+    "static/media/ld_logo_white.png": "/react_qr_app/static/media/ld_logo_white.c7ccd94b41333f877744.png",
     "index.html": "/react_qr_app/index.html",
-    "static/css/main.bf63cba0.chunk.css.map": "/react_qr_app/static/css/main.bf63cba0.chunk.css.map",
-    "static/js/2.54ea0e1a.chunk.js.LICENSE.txt": "/react_qr_app/static/js/2.54ea0e1a.chunk.js.LICENSE.txt",
-    "static/media/heart.3d7839e5.svg": "/react_qr_app/static/media/heart.3d7839e5.svg",
-    "static/media/ld_logo_white.c7ccd94b.png": "/react_qr_app/static/media/ld_logo_white.c7ccd94b.png",
-    "static/media/ld_logo_white_old.a7492e3d.png": "/react_qr_app/static/media/ld_logo_white_old.a7492e3d.png",
-    "static/media/rocketship_light.5be87af1.png": "/react_qr_app/static/media/rocketship_light.5be87af1.png",
-    "static/media/toggle.1d752285.png": "/react_qr_app/static/media/toggle.1d752285.png",
-    "static/media/toggle_old.09554e17.png": "/react_qr_app/static/media/toggle_old.09554e17.png"
+    "main.936b6d99.css.map": "/react_qr_app/static/css/main.936b6d99.css.map",
+    "main.33c6bcd4.js.map": "/react_qr_app/static/js/main.33c6bcd4.js.map",
+    "787.8c833898.chunk.js.map": "/react_qr_app/static/js/787.8c833898.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.eea0eafb.js",
-    "static/js/2.54ea0e1a.chunk.js",
-    "static/css/main.bf63cba0.chunk.css",
-    "static/js/main.73cb0811.chunk.js"
+    "static/css/main.936b6d99.css",
+    "static/js/main.33c6bcd4.js"
   ]
 }
