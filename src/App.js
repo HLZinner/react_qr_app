@@ -3,8 +3,6 @@ import React, { useState, useEffect } from "react";
 import { useFlags } from "launchdarkly-react-client-sdk";
 import QRCode from "./components/qrCode";
 import HeaderLDLogo from "./components/headerLogo";
-import Heart from "./components/heart";
-import CustomerLogo from "./components/customerLogo";
 import Toggle from "./components/toggle";
 import LDLogo from "./components/ldLogo";
 
@@ -31,8 +29,6 @@ function App() {
       </div>
       
       <div className={headerStyle}>
-        <Heart />
-        <CustomerLogo />
         <QRCode />
         <LDLogo />
         <br />
